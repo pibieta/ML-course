@@ -1,0 +1,9 @@
+name: cv-env
+dependencies:
+- pandas
+- matplotlib
+- scikit-learn
+- scikit-image
+- keras
+- tqdm
+- opencv      
