@@ -1,0 +1,41 @@
+survived:
+  * se o passageiro sobreviveu ou não
+  * valores possíveis:
+    0 = Não
+    1 = Sim
+
+pclass:
+  * classe da Passagem no navio
+  * valores possíveis:
+    1 = primeira classe,
+    2 = classe executiva,
+    3 = classe economica
+
+sex:
+  * o genero do passageiro
+
+Age:
+  * idade em anos
+
+sibsp
+  * numero de irmaos/companheiros dentro do navio
+
+parch:
+  * numero de parentes e filhos no navio
+
+ticket:
+  * codigo da passagem
+
+fare:
+  * valor da passagem
+
+cabin:
+  * número da cabine
+
+embarked:
+  * local onde embarcou no Titanic
+  * possiveis valores: 
+    C = Cherbourg,
+    Q = Queenstown,
+    S = Southampton
+
