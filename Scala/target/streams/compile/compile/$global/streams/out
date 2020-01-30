@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/pablo/repos/ML-course/Scala/sqrt.scala:3:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef abs(x: Double) = if(x < 0) -x else x[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/pablo/repos/ML-course/Scala/sqrt.scala:5:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef sqrtIter(guess: Double, x: Double): Double = [0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/pablo/repos/ML-course/Scala/sqrt.scala:9:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef isGoodEnough(guess: Double, x: Double) = [0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/pablo/repos/ML-course/Scala/sqrt.scala:12:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef improve(guess: Double, x: Double) =[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/pablo/repos/ML-course/Scala/sqrt.scala:15:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef sqrt(x: Double) = sqrtIter(1.0, x)[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
